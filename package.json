@@ -1,0 +1,15 @@
+{
+  "name": "myfirstproject",
+  "version": "1.0.0",
+  "main": "firstApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon firstApp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
